@@ -1,4 +1,5 @@
 --CreateTable_lwh_etl_AppraisalDetail
+--adding some notes herein
 
 USE [LoanWarehouse]
 GO
